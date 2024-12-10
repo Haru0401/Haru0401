@@ -49,7 +49,7 @@ Develop an asynchronous function to:
    ```  
    - Create a `.env` file in the backend folder and add your API key:  
      ```
-     API_KEY=b9d1306a8be94145b99635e18901ef6c
+     API_KEY=your api key
      ```  
    - Start the backend server:  
      ```bash
