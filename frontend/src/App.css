@@ -6,7 +6,9 @@ body {
   height: 100vh;
   margin: 0;
 }
-
+.app-container h1 {
+    color: white;
+}
 .app-container {
   text-align: center;
   font-family: Arial, sans-serif;
